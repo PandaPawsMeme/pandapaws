@@ -1,0 +1,1 @@
+Bootstrapper.bindImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;Bootstrapper.on("mousedown",".savi-button-colors.btn.primary-btn",function(){Bootstrapper.ensEvent.trigger("14824-ACE-25097-EVT",this)},true)},-1,-1,-1);
